@@ -9,7 +9,7 @@ Olin, 321\
 email: bmiller@luther.edu\
 Skype: bonelake\
 Google+\
-Piazza: https://piazza.com/class/hzhderbs75y53s
+Piazza: https://piazza.com/luther/fall2014/cs365
 
 Office Hours
 ============
