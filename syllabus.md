@@ -9,7 +9,7 @@ Olin, 321\
 email: bmiller@luther.edu\
 Skype: bonelake\
 Google+\
-Sqwiggle – Join the Luther College organization\
+Piazza: https://piazza.com/class/hzhderbs75y53s
 
 Office Hours
 ============
@@ -21,13 +21,7 @@ help you, so stop in. Mornings are open and I’m usually around.
 Text Book
 =========
 
-There is no textbook. Last year we used *Web Programming Step by Step*,
-by Marty Stepp, Jessica Miller, and Victoria Kirst. It is difficult to
-find a good textbook for this course because it covers such a wide range
-of materials all of which change rapidly. Its nice to have a book that
-consisely covers many of the basics and does so in one place. I think
-this book captures that even if it only covers a fraction of our topics.
-I will provide web resource links on katie.
+There is no textbook. I will provide web resource links on the github site.
 
 Goals
 =====
