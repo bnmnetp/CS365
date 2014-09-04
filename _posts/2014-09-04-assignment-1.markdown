@@ -5,6 +5,7 @@ date:   2014-09-04 13:52:28
 categories: assignment
 ---
 
+Due:  September 11, 2014
 
 In this first homework assignment you will build a simple homepage for yourself.  The homepage should be written using html in a text editor.  No WYSIWIG tools allowed!!  Your home page should have the following features:
 
@@ -18,3 +19,4 @@ For this first assignment you don't need to worry about colors and fonts very mu
 
 To deploy your web page for the world to see you will use github pages. You will need a github account, and you can see the instructions for making your page available to the world [here:](pages.github.com "github pages")
 
+To turn in this assignment you will email me the URL to your page.
