@@ -11,7 +11,8 @@ categories:
 
 * More Javascript intro, Javascript Objects, Javascript Events
 * HTML for input
-* Javascript [Quick Reference](http://www.dannyg.com/dl/JSB6RefBooklet.pdf)
+* Most common [Javascript for DOM](http://christianheilmann.com/stuff/JavaScript-DOM-Cheatsheet.pdf)
+* Javascript [Quick Reference](http://www.dannyg.com/dl/JSB6RefBooklet.pdf) Very Complete
 * A complete single page web app example
 
 ### Thursday
