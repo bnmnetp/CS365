@@ -10,6 +10,8 @@ categories:
 * Homework Due:  Redo your homepage website using the CSS two column layout in the book as a template.  All of your pages should use the same CSS file and have consistent look.
 
 * More Javascript intro, Javascript Objects, Javascript Events
+* HTML for input
+* Javascript [Quick Reference](http://www.dannyg.com/dl/JSB6RefBooklet.pdf)
 * A complete single page web app example
 
 ### Thursday
