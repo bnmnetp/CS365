@@ -17,4 +17,7 @@ categories:
 
 ### Thursday
 
-* Object Oriented Programming with Javascript
+* Single Page Web App:  Todo List
+  1. Build the simple interface -- keeping in mind your smartphone size device.
+  2. Make the add button work. - add a task to the list
+  3. Make the checkbox "live" for each task.  Cross off the item when checked.  Hint:  think about the parent/sibling relationships between your elements.
