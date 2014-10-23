@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goals for Week of Oct 20"
-date:   2014-10-06 19:21:49.325098
+date:   2014-10-23 08:21:49.325098
 categories:
 ---
 
@@ -13,4 +13,5 @@ categories:
 * By the end of Thursday I would like to know what you are going to do.  A short email to me will suffice.
 
 * You will present your mashup in class Next Thursday.
+
 
