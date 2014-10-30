@@ -27,6 +27,16 @@ categories:
     - What technical challenges did you face?
   * Questions
     - leave a couple minutes for questions
+    
+And the order of presentations as determined by random.shuffle is:
+    
+    import random
 
+    groups = ['miriam', 'Aren and Michael', 'Ellen and Cadence', 
+    'Dichha and Bailey', 'Dorjee and Lucas', 'Josh', 'Isaiah and Kirby', 'Scott and Ehren', 'Jon and Juan', 'Brennen', 'Bjorn']
 
+    random.shuffle(groups)
+    print groups
+    
+    ['Isaiah and Kirby', 'Ellen and Cadence', 'Scott and Ehren', 'Jon and Juan', 'Aren and Michael', 'Dorjee and Lucas', 'Dichha and Bailey', 'Brennen', 'miriam', 'Josh', 'Bjorn']
 
