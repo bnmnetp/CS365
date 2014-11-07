@@ -45,3 +45,4 @@ categories:
 
 <p>There are many sources of words on the internet, or you can use the linux dictionary file /usr/share/dict/words.  Its even better if you find one of the many lists of the 5000 most popular words, as the dictionary contains many obscure words that are just as hard to remember as random words.</p>
 
+<p>Due:  Thursday November 14</p>
